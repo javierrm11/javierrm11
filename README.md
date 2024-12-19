@@ -39,4 +39,4 @@ const JavierRuizMolero = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@javierrm11](https://github.com/javierrm11)
