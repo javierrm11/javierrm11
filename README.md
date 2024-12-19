@@ -8,7 +8,7 @@
 [![GitHub Javier](https://img.shields.io/github/followers/javierrm11?label=follow&style=social)](https://github.com/javierrm11)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Más Sobre mi...  
 
 ```javascript
 const JavierRuizMolero = {
