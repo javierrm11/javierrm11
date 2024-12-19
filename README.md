@@ -1,5 +1,4 @@
-<h2> Hola, me llamo Javier Ruiz Molero! 
-<img src="https://thumbs.dreamstime.com/b/ejemplo-del-hombre-joven-del-inconformista-con-el-ordenador-port%C3%A1til-63636468.jpg" width="50"></h2>
+<h2> Hola, me llamo Javier Ruiz Molero! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
