@@ -5,7 +5,7 @@
 </em></p>
 
 [![Instagram: jruizm_11](https://img.shields.io/badge/-@jruizm__11-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jruizm_11/)](https://www.instagram.com/jruizm_11/)
-[![Linkedin: javier](https://img.shields.io/badge/-Javier%20Ruiz%20Molero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-ruiz-molero-02b402243/)](https://www.linkedin.com/in/javier-ruiz-molero-02b402243/)
+[![Linkedin: javierrm11](https://img.shields.io/badge/-javierrm11-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javierrm11/)](https://www.linkedin.com/in/javierrm11/)
 [![GitHub Javier](https://img.shields.io/github/followers/javierrm11?label=follow&style=social)](https://github.com/javierrm11)
 
 
