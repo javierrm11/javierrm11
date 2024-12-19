@@ -1,7 +1,7 @@
 <h2> Hola, me llamo Javier Ruiz Molero! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://cdn-icons-png.flaticon.com/512/3271/3271001.png" width="230">
 <p><em>Desarrollador de Aplicaciones Web</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-  Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Estudiante en <a href="https://www.iesgrancapitan.org/">Ies Gran Capitán</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
