@@ -5,7 +5,7 @@
 </em></p>
 
 [![Linkedin: javier](https://img.shields.io/badge/-Javier%20Ruiz%20Molero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-ruiz-molero-02b402243/)](https://www.linkedin.com/in/javier-ruiz-molero-02b402243/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Javier](https://img.shields.io/github/followers/javierrm11?label=follow&style=social)](https://github.com/javierrm11)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
