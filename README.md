@@ -4,7 +4,7 @@
   Estudiante en <a href="https://www.iesgrancapitan.org/">Ies Gran Capitán</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Javier Ruiz Molero](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/javier-ruiz-molero/)](https://www.linkedin.com/in/javier-ruiz-molero-02b402243)
+[![Linkedin: Javier Ruiz Molero](https://files.oaiusercontent.com/file-2ppeau7JovAnpuP4AtU4qJ?se=2024-12-19T11%3A00%3A03Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0f5b7372-be1f-4083-bd37-85fc6fe8ccb0.webp&sig=8Os6YPnxQ6OSJTJ2KVJaL0c5cbkDNbLgk0UU10GDdn8%3D)](https://www.linkedin.com/in/javier-ruiz-molero-02b402243)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
