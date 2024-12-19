@@ -35,7 +35,7 @@ const JavierRuizMolero = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me enacanta trabajar con más gente,</b> si quieres hablar <b>no dudes en hablarme</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta trabajar con más gente,</b> si quieres hablar <b>no dudes en hablarme</b> :)</em>
 
 ---
 
