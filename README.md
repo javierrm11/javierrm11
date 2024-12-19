@@ -13,7 +13,7 @@
 
 ```javascript
 const JavierRuizMolero = {
-  pronouns: "her",
+  pronouns: "hombre",
   code: [Javascript, PHP, HTML, CSS, Java, MySql],
   tools: [React, Docker],
   architecture: ["MVC (Model-View-Controller)", "clean architecture"", "hexagonal architecture", "design system pattern"],
