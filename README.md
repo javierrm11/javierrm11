@@ -21,7 +21,8 @@ const JavierRuizMolero = {
   {
     name: "Página Web para Canalplad",
     description: "Desarrollo y despliegue de página responsive y funcional para Canalplad, incluyendo buen manejo de Front End",
-    technologies: ["HTML", "CSS", "JavaScript"],
+    technologies: ["HTML", "CSS", "JavaScript", "PHP", "Java", "MySql"],
+    frameworks: ["React", "Laravel", "Sass", "JQuery"]
     features: [
       "Construir diseño de la página",
       "Desarrollo",
