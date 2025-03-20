@@ -15,14 +15,14 @@
 const JavierRuizMolero = {
   pronouns: "hombre",
   code: [Javascript, PHP, HTML, CSS, Java, MySql],
+  frameworks: ["React", "Laravel", "Sass", "JQuery"]
   tools: [React, Docker],
   architecture: ["MVC (Model-View-Controller)", "clean architecture"", "hexagonal architecture", "design system pattern"],
   projects: [
   {
     name: "Página Web para Canalplad",
     description: "Desarrollo y despliegue de página responsive y funcional para Canalplad, incluyendo buen manejo de Front End",
-    technologies: ["HTML", "CSS", "JavaScript", "PHP", "Java", "MySql"],
-    frameworks: ["React", "Laravel", "Sass", "JQuery"]
+    technologies: ["HTML", "CSS", "JavaScript"],
     features: [
       "Construir diseño de la página",
       "Desarrollo",
