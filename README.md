@@ -32,7 +32,7 @@ const JavierRuizMolero = {
     link: "https://www.canalonescanalplad.es/"
   }
 ]
- challenge: "Estoy aprendiendo React y JavaScript Avanzado y mejorando cada día para ser el mejor"
+ challenge: "Estoy aprendiendo Laravel avanzado y  mejorando cada día para ser el mejor"
 }
 ```
 
