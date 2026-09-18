@@ -8,11 +8,7 @@
 
 <br><br>
 
-<img src="./chip-nextjs.svg" height="40"/>
-<img src="./chip-react.svg" height="40"/>
-<img src="./chip-typescript.svg" height="40"/>
-<img src="./chip-nodejs.svg" height="40"/>
-<img src="./chip-supabase.svg" height="40"/>
+<img src="./stack-panel.svg" width="100%"/>
 
 </div>
 
