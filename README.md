@@ -18,45 +18,16 @@
 
 ## Proyectos
 
-<table>
-<tr>
-<td width="50%">
-
-**CitasWassap**
-SaaS de reservas automatizadas por WhatsApp con IA para barberías y peluquerías. Agente conversacional + panel web + recordatorios automáticos. Multi-tenant desde el diseño inicial.
-`Next.js` `Supabase` `IA conversacional`
-
-</td>
-<td width="50%">
-
-**OZIO**
-PWA de descubrimiento de ocio nocturno: check-ins, puntos y recompensas, geolocalización, planes premium.
-`Next.js 15` `Supabase` `Leaflet`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Guionia**
-Convierte ideas en guiones estructurados por escenas, con banco de hooks y seguimiento de publicaciones vía TikTok for Developers API.
-`Next.js` `Supabase` `Gemini`
-
-</td>
-<td width="50%">
-
-**Prezu**
-Presupuestos y facturas por voz para autónomos y oficios. Piloto en marcha. En desarrollo activo.
-`Next.js` `TypeScript` `Stripe`
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="./project-cards/citaswassap.svg" width="48%"/>&nbsp;&nbsp;
+<img src="./project-cards/ozio.svg" width="48%"/>
+</p>
+<p align="center">
+<img src="./project-cards/guionia.svg" width="48%"/>&nbsp;&nbsp;
+<img src="./project-cards/prezu.svg" width="48%"/>
+</p>
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=javierrm11&show_icons=true&theme=default&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javierrm11&layout=compact&theme=default&hide_border=true&title_color=8B5CF6)
 
 ### Contacto
 
