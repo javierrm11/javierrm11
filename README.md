@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:6D28D9,70:8B5CF6,100:C084FC&height=180&section=header&text=Javier%20Ruiz%20Molero&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SaaS%20%2B%20IA&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=C4B5FD&background=1E1B34&center=true&vCenter=true&width=500&height=46&lines=Full+Stack+Developer+%7C+React+%C2%B7+Next.js;Construyendo+SaaS+con+IA;Ingenier%C3%ADa+Inform%C3%A1tica+%40+UCO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=480&height=50&lines=Full+Stack+Developer+%7C+React+%C2%B7+Next.js;Construyendo+SaaS+con+IA;Ingenier%C3%ADa+Inform%C3%A1tica+%40+UCO" alt="Typing SVG" />
 </a>
 
 <br><br>
