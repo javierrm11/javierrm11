@@ -19,12 +19,12 @@
 ## Proyectos
 
 <p align="center">
-<img src="./project-cards/citaswassap.svg" width="48%"/>&nbsp;&nbsp;
-<img src="./project-cards/ozio.svg" width="48%"/>
+<img src="./citaswassap.svg" width="48%"/>&nbsp;&nbsp;
+<img src="./ozio.svg" width="48%"/>
 </p>
 <p align="center">
-<img src="./project-cards/guionia.svg" width="48%"/>&nbsp;&nbsp;
-<img src="./project-cards/prezu.svg" width="48%"/>
+<img src="./guionia.svg" width="48%"/>&nbsp;&nbsp;
+<img src="./prezu.svg" width="48%"/>
 </p>
 
 <div align="center">
