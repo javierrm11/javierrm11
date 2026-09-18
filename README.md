@@ -29,10 +29,18 @@
 
 <div align="center">
 
-### Contacto
+### ¿Trabajamos juntos?
 
-[![Portfolio](https://img.shields.io/badge/javierm.dev-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://javierm.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javiermdev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:javiermdevweb@gmail.com)
+Abierto a nuevas oportunidades como Full Stack Developer
+
+[![javierm.dev](./btn-portfolio.svg)](https://javierm.dev)
+&nbsp;
+[![LinkedIn](./btn-linkedin.svg)](https://www.linkedin.com/in/javiermdev)
+&nbsp;
+[![Gmail](./btn-gmail.svg)](mailto:javiermdevweb@gmail.com)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,30:8B5CF6,65:6D28D9,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
